@@ -1,0 +1,23 @@
+nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 60px;
+    background-color: #1976d2;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+}
+
+nav .checkout {
+    background-color: #fff;
+    color: #1976d2;
+    padding: 8px 10px;
+    border-radius: 5px;
+}
